@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Linux From Scratch 13.0-systemd Build Notes
 
 This repository documents my practical journey of building a Linux system from source using the official Linux From Scratch 13.0-systemd book.
