@@ -287,4 +287,3 @@ https://www.linuxfromscratch.org/
 
 Always refer to the official LFS book before executing commands. The notes in this repository reflect a specific build environment and may require adjustments on other systems.
 
->>>>>>> 5bea740297423bbbddeacec35d19579269acf93e
