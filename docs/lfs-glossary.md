@@ -37,13 +37,4 @@ The goal is not only to translate the terms, but also to explain how each concep
 | Root Directory | جذر النظام | أعلى نقطة في بنية الملفات | `/` |
 | Prefix | مسار التثبيت الأساسي | يحدد أين سيتم تثبيت ملفات الحزمة | `--prefix=/usr` |
 
-## Git and Documentation Terms
 
-| Term | Arabic Meaning | Practical Meaning |
-|---|---|---|
-| Repository | مستودع | مكان حفظ المشروع وتاريخه |
-| Commit | حفظ تغييرات | نقطة موثقة في تاريخ المشروع |
-| Push | رفع | إرسال التعديلات إلى GitHub |
-| Pull | سحب | جلب التحديثات من GitHub |
-| Rebase | إعادة ترتيب التعديلات | تركيب تعديلاتك فوق آخر نسخة من GitHub |
-| Conflict Markers | علامات تعارض | علامات تظهر عند وجود تعارض بين نسختين من نفس الملف |
